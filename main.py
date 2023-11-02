@@ -3,6 +3,8 @@
     - aplicar funcionalidades como y do vertice e x do vertice para a quadrática e as outras caso tenham
         - agora em todos
     -- adicionar histórico de gráficos feitos
+
+oiii
 """
 
 import tkinter as tk
